@@ -1,0 +1,21 @@
+#header{
+    background: url('https://exame.com/wp-content/uploads/2019/07/avengers_endgame_international.jpg');
+    height: 250px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+    #filter-movie{
+        background: #343a40;
+        border: 0 none;
+        color: #fff;
+        outline: none !important;
+    }
+    #filter-movie:focus {
+        box-shadow: 0 0 0 0;
+        border: 0 none;
+        outline: 0;
+    } 
+    #box-movies{
+        margin-top:60px;
+    }
